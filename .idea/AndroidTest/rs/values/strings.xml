@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Desafio Mobile2You</string>
+    <string name="error_network">Ops...\nParece que você está com problemas na conexão, verifique sua internet e clique no botão abaixo.</string>
+    <string name="update">Atualizar</string>
+    <string name="likes">curtidas</string>
+    <string name="views">visualizações</string>
+    <string name="like">curtir</string>
+    <string name="back">Voltar</string>
+    <string name="error">Sem Internet</string>
+</resources>
